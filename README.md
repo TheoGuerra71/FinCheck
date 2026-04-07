@@ -67,4 +67,4 @@ npx prisma studio
 ##📝 Licença
 Esse projeto está sob a licença MIT.
 
-Projeto original por JStack | Implementado para fins de estudo por Theo Guerra.
+Projeto original por JStack | Implementado para fins de estudo por Theo Guerra, engenheiro de software.
